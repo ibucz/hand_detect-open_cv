@@ -23,6 +23,12 @@ The Arduino can then perform actions such as displaying text on an LCD, turning 
    - 🙌 Both hands → sends `"Both Hands Raised"`  
 4. The **Arduino** receives the message through serial communication and performs a predefined action.
 
+
+<p align="center">
+  <img src="Screenshot from 2025-10-26 10-39-00.png" alt="Hand Detection" width="500"/>
+</p>
+
+
 ---
 
 ## 🛠️ Requirements
@@ -33,7 +39,4 @@ Install the necessary libraries with:
 ```bash
 pip install opencv-python mediapipe pyserial
 
-<p align="center">
-  <img src="Screenshot from 2025-10-26 10-39-00.png" alt="Hand Detection" width="500"/>
-</p>
 
