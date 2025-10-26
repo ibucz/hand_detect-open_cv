@@ -24,9 +24,13 @@ The Arduino can then perform actions such as displaying text on an LCD, turning 
 4. The **Arduino** receives the message through serial communication and performs a predefined action.
 
 
+## 📸 Demo
+
 <p align="center">
-  <img src="Screenshot from 2025-10-26 10-39-00.png" alt="Hand Detection" width="500"/>
+  <img src="images/Screenshot from 2025-10-26 10-38-47.png" alt="Left Hand Detection" width="45%">
+  <img src="images/Screenshot from 2025-10-26 10-39-00.png" alt="Right Hand Detection" width="45%">
 </p>
+
 
 
 ---
