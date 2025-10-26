@@ -27,8 +27,8 @@ The Arduino can then perform actions such as displaying text on an LCD, turning 
 ## 📸 Demo
 
 <p align="center">
-  <img src="images/Screenshot from 2025-10-26 10-38-47.png" alt="Left Hand Detection" width="45%">
-  <img src="images/Screenshot from 2025-10-26 10-39-00.png" alt="Right Hand Detection" width="45%">
+  <img src="Screenshot from 2025-10-26 10-38-47.png" alt="Left Hand Detection" width="45%">
+  <img src="Screenshot from 2025-10-26 10-39-00.png" alt="Right Hand Detection" width="45%">
 </p>
 
 
