@@ -32,3 +32,8 @@ Install the necessary libraries with:
 
 ```bash
 pip install opencv-python mediapipe pyserial
+
+<p align="center">
+  <img src="images/demo.jpg" alt="Hand Detection" width="500"/>
+</p>
+
